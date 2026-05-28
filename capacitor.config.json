@@ -1,0 +1,11 @@
+{
+  "appId": "com.hanzi.bizscanner",
+  "appName": "名片整理",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
